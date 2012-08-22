@@ -75,8 +75,8 @@ function clearScreen()
 
 function intensity( x, y, t )
     {
-     var rX = 6 - x ;
-     var rY = 5 - y ;
+     var rX = 6.5 - x ;
+     var rY = 5.5 - y ;
      
      var distance = Math.sqrt( rX * rX + rY * rY ) ;
      
